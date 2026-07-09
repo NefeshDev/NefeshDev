@@ -47,7 +47,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=NefeshDev&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=80&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/NefeshDev/NefeshDev/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true&bg_color=dark" height="300" alt="activity-graph graph"  />
 </div>
 
