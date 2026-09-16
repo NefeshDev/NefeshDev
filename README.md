@@ -65,8 +65,5 @@
   <img src="https://raw.githubusercontent.com/NefeshDev/NefeshDev/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true&bg_color=dark" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/NefeshDev/NefeshDev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
